@@ -1,0 +1,4 @@
+<b><#selectbg_g>EDELWEIS - 0.1.0</#></b>
+<*>AROMA telepítõ</*>
+<*>Testreszabható telepítés</*>
+<*></*>

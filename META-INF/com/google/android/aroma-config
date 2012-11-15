@@ -1,0 +1,8 @@
+ini_set("rom_name",             "R2D2 8655-1");
+ini_set("rom_version",          "0.1.0");
+ini_set("rom_author",           "jandras");
+ini_set("rom_device",           "Huawey Ascend Y200 8655-1");
+ini_set("rom_date",             "2012.11.13.");
+
+fontresload( "0", "ttf/Roboto-Regular.ttf;ttf/DroidSansArabic.ttf;ttf/DroidSansFallback.ttf;", "12" ); #-- Use sets of font (Font Family)
+theme("ics");
